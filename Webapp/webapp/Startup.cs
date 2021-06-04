@@ -30,7 +30,7 @@ namespace az203_core
             
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+        // T  his method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())
