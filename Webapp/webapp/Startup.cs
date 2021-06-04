@@ -17,6 +17,7 @@ namespace az203_core
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+            
 
         }
 
