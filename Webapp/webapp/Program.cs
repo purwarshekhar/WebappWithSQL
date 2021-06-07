@@ -13,7 +13,7 @@ namespace az203_core
     {
         public static void Main(string[] args)
         {
-            CreateHostBuilder(args).Build().Run();]
+            CreateHostBuilder(args).Build().Run();
                 
         }
 
